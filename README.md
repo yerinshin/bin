@@ -14,3 +14,12 @@
 <br>
 
 ![Alt text](image/result2.png)
+
+<Br>
+
+- weight 값을 바꾸었을 경우 bestfit 결과창
+
+<br>
+
+![Alt text](image/result3.png)
+
